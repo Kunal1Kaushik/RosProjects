@@ -1,0 +1,6 @@
+<launch>
+  <arg name="args1" default="2.0"/>
+  <arg name="args2" default="2.0"/>
+  <arg name="args3" default="2.0"/>
+  <node name="driver" pkg="task_3" type="driver.py" args="$(arg args1) $(arg args2) $(arg args3)" output="screen"/>
+</launch>
