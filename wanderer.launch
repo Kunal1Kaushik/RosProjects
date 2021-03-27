@@ -1,0 +1,3 @@
+<launch>
+  <node name="wanderer" pkg="task4" type="wanderer.py" output="screen"/>
+</launch>
