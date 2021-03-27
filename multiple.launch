@@ -1,0 +1,4 @@
+<launch>
+  <node name="randombot" pkg="task5" type="randombot.py" output="screen"/>
+  <node name="imu" pkg="task5" type="imu.py" output="screen"/>
+</launch>
