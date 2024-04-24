@@ -1,4 +1,5 @@
 # RosProjects
+These tasks pertain to a ROS competition organized in NIT Hamirpur, India.
 All the 5 tasks are available
 For task 3, an example of the roslaunch command to be used is :
 $ roslaunch task_3 driver.launch args1:="2.0" args2:="2.0" args3:="3.0"
@@ -9,4 +10,4 @@ Playing the rosbag recordings for task 1 and 4 will not give a proper result due
 
 NAME : KUNAL KAUSHIK
 EMAIL : kunalkaushik2505@gmail.com
-PHONE NO : 7668724934
+
